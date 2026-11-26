@@ -7,7 +7,7 @@ pipeline {
         SONAR_SERVER_NAME     = 'sonarqube_env' 
         SONAR_SCANNER_TOOL    = 'sonar-scanner'     
         GIT_CREDENTIALS_ID    = 'github-cred'
-        MANIFEST_REPO         = 'https://github.com/hafiz-mhd/Fast-api-app.git'
+        MANIFEST_REPO         = 'https://github.com/hafiz-mhd/foodista-deployment.git'
         MANIFEST_BRANCH       = 'main'
     }
 
